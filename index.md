@@ -1,4 +1,5 @@
-<title>BSIT CITE</title><link rel="shortcut icon" type="image/x-icon" href="https://ise.web.app/fa/27.png">
+<title>BSIT CITE</title>
+<link rel="shortcut icon" type="image/x-icon" href="https://ise.web.app/fa/27.png">
 
 <link rel="preload" as="style" href="https://actwu.github.io/md2.css">
 <link rel="stylesheet" href="https://actwu.github.io/md2.css">
