@@ -19,6 +19,7 @@
 # Guide for sem soon..
 
 ## Sem Info
+
 <details>
 <summary><strong>Semester 1 – Foundation Building</strong></summary>
 
@@ -80,8 +81,6 @@
 </details>
 
 ## IT of FAP
-
-</details>
 
 <details>
 <summary><strong>Batch 1</strong></summary>
