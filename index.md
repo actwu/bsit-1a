@@ -22,12 +22,14 @@
 ## IT of FAP
 
 ### Batch 1
+
 | No. | First Name | Section |
 |-----|------------|---------|
 | 2   | Romelisa   |         |
 | 28  | Danah      | 1A      |
 
 ### Batch 2
+
 | No. | First Name | Section |
 |-----|------------|---------|
 | 7   | Nai        | 1A      |
