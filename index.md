@@ -54,6 +54,9 @@ app('BSIT CITE');
 </script>
 ```
 
+[Edit Source](https://github.com/actwu/bsit-1a/edit/site/index.md)
+
+
 <script src="https://cdn.jsdelivr.net/gh/iselang/iselang.github.io@main/num.min.js"></script>
 <script>
 app('BSIT CITE');
