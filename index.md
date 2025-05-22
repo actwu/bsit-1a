@@ -18,10 +18,10 @@
 
 # Guide for sem soon..
 
+
 ## Sem Info
 
-<details>
-<summary><strong>Semester 1 – Foundation Building</strong></summary>
+### Sem 1 - Foundation
 
 | **Subject Code** | **Title**                       | **Detailed Breakdown** |
 |------------------|----------------------------------|-------------------------|
@@ -33,10 +33,8 @@
 | PATHFit 1        | Movement Competency Training    | Conduct physical fitness assessments (BMI, strength, flexibility). Learn warm-ups, basic movement drills, posture analysis. Submit fitness logs and personal improvement plans. |
 | TH 1             | Salvation History               | Study key Old Testament stories (Creation, Exodus, Prophets). Reflect on themes like obedience, sin, and redemption. Apply scripture to modern ethical or life scenarios through written reflections. |
 
-</details>
 
-<details>
-<summary><strong>Semester 2 – First Step into Programming</strong></summary>
+### Sem 2 - Step in
 
 | **Subject Code** | **Title**                        | **Detailed Breakdown** |
 |------------------|----------------------------------|-------------------------|
@@ -48,11 +46,8 @@
 | PATHFit 2        | Exercise-based Fitness Activity  | Build and follow a personal fitness plan (cardio, strength, flexibility). Track progress and nutrition. Participate in fitness challenges or team workouts. |
 | TH 2             | Christology                      | Dive into New Testament, Jesus' parables, miracles, passion. Compare historical vs theological Jesus. Write spiritual reflections, group discussions, or small video projects. |
 
-</details>
+### Sem 3 – Advanced IT Fundamentals
 
-<details>
-<summary><strong>Semester 3 – Advanced IT Fundamentals</strong></summary>
-  
 | Subject Code | Subject Title                         | Lec Units | Lab Units | Total Units | Topics & Activities                                                                 |
 |--------------|----------------------------------------|-----------|-----------|--------------|--------------------------------------------------------------------------------------|
 | IT 201       | Data Structures and Algorithms         | 2.0       | 1.0       | 3.0          | Implement stacks, queues, trees; analyze algorithm efficiency; solve computational problems |
@@ -63,10 +58,7 @@
 | GE - STS     | Science, Technology, and Society       | 3.0       | 0.0       | 3.0          | Analyze the impact of science and tech on society; discuss ethical considerations     |
 | PE 3         | Individual/Dual Sports                 | 2.0       | 0.0       | 2.0          | Participate in sports activities; develop personal fitness plans                      |
 
-</details>
-
-<details>
-<summary><strong>Semester 4 – Net + System </strong></summary>
+### Sem 4 - Net + System
 
 | Subject Code | Subject Title                         | Lec Units | Lab Units | Total Units | Topics & Activities                                                                 |
 |--------------|----------------------------------------|-----------|-----------|--------------|--------------------------------------------------------------------------------------|
@@ -78,12 +70,10 @@
 | GE - ETHICS  | Ethics                                 | 3.0       | 0.0       | 3.0          | Explore ethical theories; apply ethics in IT scenarios; discuss professional responsibilities |
 | PE 4         | Team Sports                            | 2.0       | 0.0       | 2.0          | Engage in team sports; develop teamwork and strategic skills                          |
 
-</details>
 
 ## IT of FAP
 
-<details>
-<summary><strong>Batch 1</strong></summary>
+### Batch 1
   
 | No. | First Name | Section |
 |-----|------------|---------|
@@ -91,11 +81,8 @@
 | 28  | Danah      | 1A      |
 
 
-</details>
+### Batch 2
 
-<details>
-<summary><strong>Batch 2</strong></summary>
-  
 | No. | First Name | Section |
 |-----|------------|---------|
 | 7   | Nai        | 1A      |
@@ -103,9 +90,6 @@
 | 18  | Tony       | 1A      |
 | 22  | Ian        | 1A      |
 | 30  | Zebastion  |         |
-
-</details>
-
 
 ```md
 
