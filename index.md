@@ -6,6 +6,19 @@
 
 # Hello Cite
 
+
+| SUBJECT CODE | SUBJECT TITLE                          | LEC. UNITS | LAB. MAYBE | TOTAL UNITS | UNITS MAYBE |
+|--------------|-----------------------------------------|------------|------------|--------------|--------------|
+| GE - PC      | PURPOSIVE COMMUNICATION                | 3.0        | 0.0        | 3.0          | 3.0          |
+| GE - RPH     | READINGS IN PHILIPPINE HISTORY         | 3.0        | 0.0        | 3.0          | 3.0          |
+| GE - US      | UNDERSTANDING SELF                     | 3.0        | 0.0        | 3.0          | 3.0          |
+| IT 101       | INTRODUCTION TO COMPUTING              | 3.0        | 0.0        | 3.0          | 3.0          |
+| NSTP 1       | CWTS 1                                 | 3.0        | 0.0        | 3.0          | 3.0          |
+| PATHFit 1    | MOVEMENT COMPETENCY TRAINING           | 2.0        | 0.0        | 2.0          | 2.0          |
+| TH 1         | SALVATION HISTORY (OLD TESTAMENT)      | 3.0        | 0.0        | 3.0          | 3.0          |
+
+# Guide for sem soon..
+
 ## IT of FAP
 
 ### Batch 1
