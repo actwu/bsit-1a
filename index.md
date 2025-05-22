@@ -81,15 +81,22 @@
 
 ## IT of FAP
 
-### Batch 1
+</details>
 
+<details>
+<summary><strong>Batch 1</strong></summary>
+  
 | No. | First Name | Section |
 |-----|------------|---------|
 | 2   | Romelisa   |         |
 | 28  | Danah      | 1A      |
 
-### Batch 2
 
+</details>
+
+<details>
+<summary><strong>Batch 2</strong></summary>
+  
 | No. | First Name | Section |
 |-----|------------|---------|
 | 7   | Nai        | 1A      |
@@ -97,6 +104,8 @@
 | 18  | Tony       | 1A      |
 | 22  | Ian        | 1A      |
 | 30  | Zebastion  |         |
+
+</details>
 
 
 ```md
